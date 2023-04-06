@@ -1,0 +1,32 @@
+body{
+
+    text-align: left;
+    font-size: 40px;
+    background-color:rgb(94, 19, 19);
+}
+
+.primeiro{
+    color: rgb(151, 151, 202);
+    font-family: Arial;
+}
+
+.segundo{
+    color: rgb(12, 7, 17);
+    font-family: sans-serif;
+}
+
+.terceiro{
+    color: rgb(33, 75, 155);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.quarto{
+    color: rgb(150, 116, 116);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.quinto{
+    color: rgb(70, 165, 70);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
